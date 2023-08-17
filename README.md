@@ -1,4 +1,5 @@
 ### Hi, I'm Bri 👋
+##
 
 <div>
   <a href="https://github.com/BriArl">
@@ -15,6 +16,8 @@
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+
+##
 
 <div style="margin-top: 10px;">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
