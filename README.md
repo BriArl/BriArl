@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bri</h1>
 <h3 align="center">Tech explorer dedicated to backend, data science, and ML.</h3><br>
 
+<div>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 
@@ -11,7 +12,7 @@ to innovate.
 
 - 🌱 I’m currently learning about **Data Analysis**
 
-
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -38,7 +39,6 @@ to innovate.
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/BriArl">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BriArl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BriArl&&theme=tokyonight" alt="BriArl" />
   </a>
 </div> 
