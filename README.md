@@ -40,5 +40,6 @@ to innovate.
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/BriArl">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BriArl&&theme=tokyonight" alt="BriArl" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriArl&layout=compact&langs_count=6&theme=dracula"/> 
   </a>
 </div> 
