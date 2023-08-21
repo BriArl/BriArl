@@ -1,6 +1,6 @@
 [![MasterHead]()](https://BriArl.io)
 <h1 align="center">Hi 👋, I'm Bri</h1>
-<h3 align="center">Tech explorer dedicated to backend, data, and ML.</h3>
+<h3 align="center">Tech explorer dedicated to backend, data science, and ML.</h3><br>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
