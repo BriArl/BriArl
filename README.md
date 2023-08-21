@@ -5,7 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 
-- 🔭 I’m an enthusiastic software engineering student diving deep into<br> backend development, data analytics, and machine learning, fueled <br>by curiosity and a drive to innovate.
+- 🔭 I’m an enthusiastic software engineering student diving deep into
+backend development, data analytics, and machine learning, fueled by
+curiosity and a drive to innovate.
 
 - 🌱 I’m currently learning about **Data Analysis**
 
