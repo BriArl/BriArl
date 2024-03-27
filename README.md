@@ -5,23 +5,13 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 
-- 🔭 I’m an enthusiastic software engineering student
+- 🔭 I’m a software engineering student
 diving deep into backend development, data analytics,
-and machine learning, fueled by curiosity and a drive
-to innovate.
+and machine learning.
 
 - 🌱 I’m currently learning about **Data Analysis**
 
 </div>
-
-
-<h3 align="left">Connect with me:</h3>
-<div style="margin-top: 10px;">
-  <a href="mailto:briannayoute22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brianna-y-14baab282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-#
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block;">
