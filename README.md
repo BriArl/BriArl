@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bri</h1>
-<h3 align="center">Tech explorer dedicated to backend, data science, and ML.</h3><br>
+<h3 align="center">Software Engineer Interested in Fashion Retail</h3>
+<br>
 
 <div>
 
 
 
-- 🔭 I’m a software engineering student
-diving deep into backend development, data analytics,
-and machine learning.
+- 🔭 I’m a Jr. software engineer focusing on backend development, data analytics, and how technology can improve the retail experience.
 
-- 🌱 I’m currently learning about **Data Analysis**
+- 🌱 Currently learning how data analysis and tech solutions can support innovation in the fashion industry.
 
 </div>
 
