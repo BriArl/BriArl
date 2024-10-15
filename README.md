@@ -2,7 +2,7 @@
 <h3 align="center">Tech explorer dedicated to backend, data science, and ML.</h3><br>
 
 <div>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+
 
 
 - 🔭 I’m a software engineering student
