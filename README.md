@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bri</h1>
-<h3 align="center">Software Engineer Interested in Fashion Retail</h3>
+<h3 align="center"></h3>
 <br>
 
 <div>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m a Jr. software engineer focusing on backend development, data analytics, and how technology can improve the retail experience.
 
-- 🌱 Currently learning how data analysis and tech solutions can support innovation in the fashion industry.
+- 🌱 Currently learning how data analysis and tech solutions can support innovation in customer experince
 
 </div>
 
