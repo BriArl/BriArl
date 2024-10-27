@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m a Jr. software engineer focusing on backend development, data analytics, and how technology can improve the retail experience.
+- 🔭 I’m a Jr. software engineer focusing on backend development, data analytics, and how technology can improve the consumer experience.
 
 - 🌱 Currently learning how data analysis and tech solutions can support innovation in customer experince
 
