@@ -6,9 +6,7 @@
 
 
 
-- 🔭 I’m a Jr. software engineer focusing on backend development, data analytics, and how technology can improve the user experience.
-
-- 🌱 Currently learning how data analysis and tech solutions can support innovation in customer experince
+- 🔭 I’m a Jr. software engineer 
 
 </div>
 
