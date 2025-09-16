@@ -1,12 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bri</h1>
-<h3 align="center"></h3>
-<br>
 
-<div>
-
-
-
-- 🔭 I’m a Jr. software engineer 
 
 </div>
 
